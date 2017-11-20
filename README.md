@@ -11,3 +11,7 @@ tab.centerBtnIcon = @"sou_00";
 tab.tabDelegate = self;
 
 [self setValue:tab forKey:@"tabBar"];
+
+
+
+￼￼

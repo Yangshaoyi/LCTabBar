@@ -13,5 +13,7 @@ tab.tabDelegate = self;
 [self setValue:tab forKey:@"tabBar"];
 
 
+样式图:
 
+![image](https://github.com/Yangshaoyi/LCTabBar/blob/master/project_image.jpg)
 ￼￼
